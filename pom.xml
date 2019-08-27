@@ -12,6 +12,7 @@
   </parent>
   <modules>
   	<module>factory-pattern</module>
+  	<module>singleton-pattern</module>
   </modules>
      
   <build>
