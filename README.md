@@ -8,3 +8,6 @@
 ## 原型模式(浅克隆、深克隆)[PrototypePattern]
 
 详细介绍：[https://blog.csdn.net/qq_35551089/article/details/100099673](https://blog.csdn.net/qq_35551089/article/details/100099673)
+## 代理模式(静态代理、JDK动态代理、Cglib动态代理、手写动态代理核心部分)[ProxyPattern]
+
+详细介绍：[https://blog.csdn.net/qq_35551089/article/details/100161596](https://blog.csdn.net/qq_35551089/article/details/100161596)
