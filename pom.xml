@@ -15,6 +15,7 @@
   	<module>singleton-pattern</module>
   	<module>prototype-pattern</module>
   	<module>proxy-pattern</module>
+  	<module>delegate-pattern</module>
   </modules>
      
   <build>

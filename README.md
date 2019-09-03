@@ -11,3 +11,7 @@
 ## 代理模式(静态代理、JDK动态代理、Cglib动态代理、手写动态代理核心部分)[ProxyPattern]
 
 详细介绍：[https://blog.csdn.net/qq_35551089/article/details/100161596](https://blog.csdn.net/qq_35551089/article/details/100161596)
+
+## 委派模式(任务调度和分配)[DelegatePattern]
+
+详细介绍：[https://blog.csdn.net/qq_35551089/article/details/100204143](https://blog.csdn.net/qq_35551089/article/details/100204143)
