@@ -15,3 +15,7 @@
 ## 委派模式(任务调度和分配)[DelegatePattern]
 
 详细介绍：[https://blog.csdn.net/qq_35551089/article/details/100204143](https://blog.csdn.net/qq_35551089/article/details/100204143)
+
+## 策略模式[StrategyPattern]
+
+详细介绍：[https://blog.csdn.net/qq_35551089/article/details/100541160](https://blog.csdn.net/qq_35551089/article/details/100541160)
