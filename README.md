@@ -19,3 +19,8 @@
 ## 策略模式[StrategyPattern]
 
 详细介绍：[https://blog.csdn.net/qq_35551089/article/details/100541160](https://blog.csdn.net/qq_35551089/article/details/100541160)
+
+## 模板方法模式[TemplateMethodPattern]
+
+详细介绍：[https://blog.csdn.net/qq_35551089/article/details/100628045](https://blog.csdn.net/qq_35551089/article/details/100628045)
+

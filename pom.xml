@@ -17,6 +17,7 @@
   	<module>proxy-pattern</module>
   	<module>delegate-pattern</module>
   	<module>strategy-pattern</module>
+  	<module>templatemethod-pattern</module>
   </modules>
      
   <build>
