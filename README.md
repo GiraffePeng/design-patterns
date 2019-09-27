@@ -24,3 +24,6 @@
 
 详细介绍：[https://blog.csdn.net/qq_35551089/article/details/100628045](https://blog.csdn.net/qq_35551089/article/details/100628045)
 
+## 适配器模式[AdapterPattern]
+
+详细介绍：[https://blog.csdn.net/qq_35551089/article/details/101520398](https://blog.csdn.net/qq_35551089/article/details/101520398)

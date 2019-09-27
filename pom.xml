@@ -18,6 +18,7 @@
   	<module>delegate-pattern</module>
   	<module>strategy-pattern</module>
   	<module>templatemethod-pattern</module>
+  	<module>adapter-pattern</module>
   </modules>
      
   <build>
