@@ -27,3 +27,7 @@
 ## 适配器模式(类结构适配器、对象结构适配器、双向适配器)[AdapterPattern]
 
 详细介绍：[https://blog.csdn.net/qq_35551089/article/details/101520398](https://blog.csdn.net/qq_35551089/article/details/101520398)
+
+## 装饰器模式(与继承的区别，与适配器/代理的区别)[DecoratorPattern]
+
+详细介绍：[https://blog.csdn.net/qq_35551089/article/details/101558508](https://blog.csdn.net/qq_35551089/article/details/101558508)

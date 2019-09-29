@@ -19,6 +19,7 @@
   	<module>strategy-pattern</module>
   	<module>templatemethod-pattern</module>
   	<module>adapter-pattern</module>
+  	<module>decorator-pattern</module>
   </modules>
      
   <build>
