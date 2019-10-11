@@ -31,3 +31,7 @@
 ## 装饰器模式(与继承的区别，与适配器/代理的区别)[DecoratorPattern]
 
 详细介绍：[https://blog.csdn.net/qq_35551089/article/details/101558508](https://blog.csdn.net/qq_35551089/article/details/101558508)
+
+## 观察者模式(JDK的Observer,Guava API)[ObserverPattern]
+
+详细介绍：[https://blog.csdn.net/qq_35551089/article/details/102457178](https://blog.csdn.net/qq_35551089/article/details/102457178)
